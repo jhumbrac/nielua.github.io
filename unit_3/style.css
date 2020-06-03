@@ -1,0 +1,33 @@
+
+body {
+	background-color: #FFCBE3;
+	font-family: ambit;
+	line-height: 1;
+	}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-size: italic;
+}
+p {
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+}
+ul{
+}
+li {
+	font-size: 20px;
+
+}
+img {
+	width: 100%;
+  height: auto;
+}
+#slogan {
+
+
+}
