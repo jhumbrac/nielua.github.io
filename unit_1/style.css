@@ -6,13 +6,18 @@ h1 {
   color: white;
   text-align: center;
 
-  .nav li {
+.nav li {
   display: inline-block;
   font-size: 20px;
   padding: 20px;
 }
+.nav {
+  background-color: white; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
-
 p {
   font-family: verdana;
   font-size: 20px;
