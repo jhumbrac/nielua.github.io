@@ -1,5 +1,5 @@
 body {
-  background-color: url("https://imgur.com/rfyJ54J.jpg");
+  background-color: #CF619F;
   background-size: cover;
 }
 
@@ -14,7 +14,6 @@ h1 {
   margin: 0;
   padding: 0;
 }
-
 .nav li {
   background-color: none; 
   display: inline-block;
