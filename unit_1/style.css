@@ -6,8 +6,7 @@ body {
 h1 {
   color: black;
   text-align: center;
-
-  .nav {
+.nav {
   background-color: grey; 
   list-style-type: none;
   text-align: center;
@@ -19,7 +18,6 @@ h1 {
   display: inline-block;
   font-size: 20px;
   padding: 20px;
-}
 }
 p {
   font-family: ambit;
