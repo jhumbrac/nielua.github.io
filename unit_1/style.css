@@ -1,5 +1,6 @@
 body {
-  background-color: pink;
+  background-color: url("https://imgur.com/rfyJ54J");
+  background-size: cover;
 }
 
 h1 {
@@ -30,3 +31,4 @@ p {
 img {
 	width: 100%;
 	}
+	
