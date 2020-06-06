@@ -2,7 +2,7 @@
 body {
 	background-color: #FFCBE3;
 	font-family: ambit;
-	line-height: 1;
+	line-height: 1.5;
 	}
 h1 {
 	text-align: center;
@@ -15,7 +15,7 @@ p {
 	font-size: 20px;
 	font-style: italic;
 	text-align: center;
-	font-weight: bold;
+	font-weight: normal;
 }
 ul{
 }
