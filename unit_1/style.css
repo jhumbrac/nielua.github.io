@@ -6,6 +6,13 @@ body {
 h1 {
   color: black;
   text-align: center;
+}
+
+h2{
+	text-align: center;
+  	font-size: italic;
+
+  }
 .nav {
   background-color: grey; 
   list-style-type: none;
